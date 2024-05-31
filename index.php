@@ -1,4 +1,5 @@
 <?php
+echo "make changes"
 require_once('inc/functions.php'); 
 require_once('inc/languages.php'); 
 require_once('Smarty.class.php');
