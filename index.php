@@ -1,5 +1,5 @@
 <?php
-echo "make changes"
+echo "make 2nd changes"
 require_once('inc/functions.php'); 
 require_once('inc/languages.php'); 
 require_once('Smarty.class.php');
