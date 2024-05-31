@@ -1,5 +1,6 @@
 <?php
 echo "make 2nd changes"
+echo "change only at branchname"
 require_once('inc/functions.php'); 
 require_once('inc/languages.php'); 
 require_once('Smarty.class.php');
