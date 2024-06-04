@@ -128,7 +128,7 @@
         <div class="row">
           <div class="col-sm-12 col-md-6">
             <h6>About Our Job Portal</h6>
-            <p class="text-justify">Countworx Inc. provide ease to use as well as completely flexible, high class quality and rich features job portal. Also, we have developed a number of job portal on the basis of custom needs of our clients. Check our affordable job portal package and take a first step to be a successful business.</p>
+            <p class="text-justify">The Countworx Inc. provide ease to use as well as completely flexible, high class quality and rich features job portal. Also, we have developed a number of job portal on the basis of custom needs of our clients. Check our affordable job portal package and take a first step to be a successful business.</p>
           </div>
 
           
