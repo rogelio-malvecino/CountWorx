@@ -83,7 +83,7 @@
         <div class="container">
             <div class="row">
               <div class="col-md-12 text-center index-head">
-              <h1>About Us</h1>
+              <h1>About Us Philippines</h1>
               
               </div>
             </div>
