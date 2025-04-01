@@ -1,6 +1,5 @@
 <?php
-echo "Hello samplephp.php";
-echo "Hello commit";
-echo "Hello commit2";
+echo "edit at github";
+
 
 ?>
